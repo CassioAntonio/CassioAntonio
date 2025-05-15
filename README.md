@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Meu nome é Cássio tenho 21 anos, sou Desenvolvedor Web e moro em Passos-MG <br><br>Formação <br>_____________________________________________________________________________________________________________________<br><br>🎓Bacharelado Ciência da Computação <br>_____________________________________________________________________________________________________________________<br><br> 💻 Principais tecnologias:<br><br>JavaScript | React Native | React Js | Fire base | Python | SQL | Swift <br>_____________________________________________________________________________________________________________________<br><br>⚛ linguagens e Frameworks</h5>
+<h5 align="left">Meu nome é Cássio tenho 21 anos, sou Desenvolvedor Web e moro em Passos-MG <br><br>Formação <br>_____________________________________________________________________________________________________________________<br><br>🎓Bacharelado Ciência da Computação <br>_____________________________________________________________________________________________________________________<br><br> 💻 Principais tecnologias:<br><br>JavaScript | React Native | React Js | Supabase | Python | SQL | Swift <br>_____________________________________________________________________________________________________________________<br><br>⚛ linguagens e Frameworks</h5>
 
 ###
 
