@@ -60,28 +60,25 @@ Atualmente moro em <strong>Passos - MG</strong> e sou apaixonado por tecnologia,
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=CassioAntonio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioAntonio&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="170em"
+       src="https://github-readme-stats.vercel.app/api?username=CassioAntonio&show_icons=true&theme=tokyonight&include_all_commits=true" />
 
 </div>
 
-
-
-### 📈 GitHub Activity Overview
+### 📈 Activity Overview
 
 <div align="center">
 
-<!-- Card de commits totais e contribuições -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=cassioantonioo&show_icons=true&count_private=true&include_all_commits=true&hide_title=false&hide_border=false&theme=radical" />
+  <!-- Card de linguagens mais usadas -->
+  <img height="160em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioAntonio&layout=compact&langs_count=6&theme=radical" />
 
-<!-- Card de linguagens mais usadas -->
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CassioAntonio&layout=compact&langs_count=6&theme=radical&hide_border=false" />
-
-<!-- Card de commits por dia / streak estilizado -->
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=CassioAntonio&theme=radical&hide_border=false" />
+  <!-- Card de sequência de commits (streak) -->
+  <img height="160em"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=CassioAntonio&theme=radical" />
 
 </div>
+
 
 ### 👀 Contador de Visitas
 <div align="center">
