@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
-</p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" align="right" alt="Developer illustration">
 
@@ -81,6 +78,12 @@ My goal is to write **clean, reusable and scalable code**, while continuously im
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CassioAntonio&theme=dracula">
 
 </div>
+
+---
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
+</p>
 
 ---
 
